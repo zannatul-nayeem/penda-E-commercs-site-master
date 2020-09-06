@@ -1,0 +1,162 @@
+/*  Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+	
+	.silder-content {
+		padding: 50px 15px;
+	}
+	.silder-content p {
+		width: 95%;
+		line-height: 25px;
+	}
+	.slider-image img {
+		width: 200px;
+	}
+	.slider-image {
+		padding: 20px 276px;
+	}
+	.containt {
+		margin-bottom: 10px;
+	}
+	.style-image img {
+		width: 170px;
+		margin-left: 240px;
+		margin-bottom: 50px;
+	}
+	.containt {
+
+		margin: -40px 40px;
+	}
+	.containt-second {
+		margin: 50px 40px;
+	}
+	.containt-therd {
+		margin: -40px 40px;
+	}
+	.style-containt h2 {
+		text-align: center;
+		padding-right: 130px;
+	}
+	.shoes-card{
+		margin-bottom: 20px;
+		text-align: center;
+		
+	}
+	.style-image img {
+		width: 160px;
+		margin-left: 120px;
+		margin-bottom: 25px;
+	}
+	.slider-image img {
+		width: 110px;
+	}
+ }
+
+/*  Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	
+	.silder-content {
+		padding: 50px 15px;
+	}
+	.silder-content p {
+		width: 95%;
+		line-height: 25px;
+	}
+	.slider-image img {
+		width: 200px;
+	}
+	.slider-image {
+		padding: 20px 276px;
+	}
+	.containt {
+		margin-bottom: 10px;
+	}
+	.style-image img {
+		width: 170px;
+		margin-left: 240px;
+		margin-bottom: 50px;
+	}
+	.containt {
+
+		margin: -40px 40px;
+	}
+	.containt-second {
+		margin: 50px 40px;
+	}
+	.containt-therd {
+		margin: -40px 40px;
+	}
+	.style-containt h2 {
+		text-align: center;
+		padding-right: 130px;
+	}
+	.shoes-card{
+		margin-bottom: 20px;
+		text-align: center;
+		
+	}
+	.silder-content p {
+		font-size: 16px;
+		width: 140%;
+		line-height: 25px;
+		
+	}
+	.silder-content h2 {
+		font-size: 30px;
+	}
+	
+
+ }
+
+/*  Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	
+	.containt-therd {
+		margin-top: 20px;
+		margin: 2px;
+	}
+	.silder-content {
+		padding: 15px 20px;
+	}
+	.silder-content p {
+		font-size: 16px;
+		width: 140%;
+		line-height: 25px;
+		
+	}
+	.silder-content h2 {
+		font-size: 30px;
+	}
+	.slider-image img {
+		width: 155px;
+		margin-left: -70px;
+	}
+	.containt {
+		margin-right: 90px;
+	}
+	.containt-second {
+		margin-right: 90px;
+	}
+	.containt-therd {
+		margin-right: 90px;
+	}
+	#style-part {
+		padding: 50px 15px;
+		text-align: center;
+		margin-left: 100px;
+	}
+
+ }
+
+/*  Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	
+
+
+ }
+
+/*  Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+	
+	
+
+}
